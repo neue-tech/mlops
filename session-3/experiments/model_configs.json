@@ -1,0 +1,5 @@
+{
+  "logreg": {"model_type":"logistic_regression","params":{"max_iter":500}},
+  "rf": {"model_type":"random_forest","params":{"n_estimators":200,"random_state":42}},
+  "xgb": {"model_type":"xgboost","params":{"n_estimators":100,"use_label_encoder":false,"eval_metric":"logloss"}}
+}

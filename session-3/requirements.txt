@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+mlflow
+joblib
+matplotlib
+seaborn
+fastapi
+uvicorn
+requests
+xgboost
+lightgbm
+shap
+streamlit
+scipy
+pillow
